@@ -22,3 +22,12 @@
 [![](https://visitcount.itsvg.in/api?id=tantai1305&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<a href="https://github.com/tantai1305/.Net-QuanLyBenhVien/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tantai1305&repo=.Net-QuanLyBenhVien&theme=radical" />
+</a>    
+<a href="https://github.com/tantai1305/BE2-Ministore/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tantai1305&repo=BE2-Ministore&theme=merko" />
+</a>
