@@ -31,7 +31,7 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Linh4767&repo=QLNhaHang&theme=radical" />
 </a> 
-<a href="https://github.com/tkngan2104/PJ-Android/">
+<a href="https://github.com/tantai1305/ProjectASP_Nhom8/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tkngan2104&repo=PJ-Android&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tantai1305&repo=ProjectASP_Nhom8&theme=radical" />
 </a>
