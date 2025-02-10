@@ -27,7 +27,7 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tantai1305&repo=.Net-QuanLyBenhVien&theme=radical" />
 </a>  
-<a href="https://github.com/Linh4767/QLNhaHang">
+<a href="https://github.com/Linh4767/QLNhaHang/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tantai1305&repo=QLNhaHang&theme=radical" />
 </a> 
