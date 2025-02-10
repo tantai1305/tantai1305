@@ -29,9 +29,9 @@
 </a>  
 <a href="https://github.com/Linh4767/QLNhaHang/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tantai1305&repo=QLNhaHang&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Linh4767&repo=QLNhaHang&theme=radical" />
 </a> 
 <a href="https://github.com/tkngan2104/PJ-Android/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tantai1305&repo=PJ-Android&theme=merko" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tkngan2104&repo=PJ-Android&theme=merko" />
 </a>
